@@ -1,4 +1,4 @@
-# codeSamplesLib
+# jsCodeSamplesLib
 
 It is library of usefull own code
 
